@@ -42,7 +42,7 @@ const About = () => {
 
           </div>
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, quisquam, necessitatibus quis labore soluta alias ducimus tempora ea at repellat animi natus nesciunt eveniet nemo quo odit, rem temporibus ipsam?</p>
-          <a href="#contact" className='btn btn-primary'>Let's Tald</a>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
    
       </div>
