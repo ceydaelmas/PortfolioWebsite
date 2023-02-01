@@ -9,7 +9,8 @@
       {
         "ignore": [
           "backdrop-filter",
-          "aspect-ratio"
+          "aspect-ratio",
+          "user-select"
         ]
       }
     ]
